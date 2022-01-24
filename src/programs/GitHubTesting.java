@@ -13,6 +13,8 @@ public class GitHubTesting {
 		System.out.println("Pair wise testing on the combinational scenarios .....");
 		
 		System.out.println("Pushing the code to Raj git practice branch ...");
+		
+		System.out.println("Testing the git pull ...");
 	}
 	
 	
