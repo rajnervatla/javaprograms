@@ -9,7 +9,8 @@ public class GitHubTesting {
 		System.out.println("Editing in the feature branch raj Git practice");
 		System.out.println("This is the feature branch testing from the local....");
 		
-		System.out.println("Pushing it to other remote branch");
+		System.out.println("Pushing it to other remote branch for Feature branch testing on 17:50 pm");
+	
 	}
 
 }
