@@ -10,6 +10,7 @@ public class GitHubTesting {
 		
 		System.out.println("Pushing it to other remote branch for Feature branch testing on 17:50 pm");
 	
+		System.out.println("Pair wise testing on the combinational scenarios .....");
 	}
 
 }
