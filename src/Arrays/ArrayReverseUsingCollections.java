@@ -11,6 +11,7 @@ public class ArrayReverseUsingCollections {
 	    Arrays.sort(ar, Collections.reverseOrder());
 	    System.out.println("\n");
 	    System.out.println("After sorting:\n" + Arrays.toString(ar));
+	    System.out.println(" Testing the arrays using feature");
 
 	  }
 	}
