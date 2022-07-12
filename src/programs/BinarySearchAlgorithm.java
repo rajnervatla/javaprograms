@@ -43,6 +43,9 @@ public class BinarySearchAlgorithm {
 
 		// Approach 2 for binary sorting
 		System.out.println(Arrays.binarySearch(arr, 5));
+		
+		System.out.println(" Ading it too thhe feature brancch");
+		
 	}
 
 }
