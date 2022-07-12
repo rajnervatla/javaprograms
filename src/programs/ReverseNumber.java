@@ -14,14 +14,14 @@ public class ReverseNumber {
 		int reverse=0;
 	/*logic 1*/	
 	
-/*		while(num!=0)
+		while(num!=0)
 		{
 			reverse=reverse*10+num%10;
 			num=num/10;
 		}
 		System.out.println("Reverse Number is "+reverse);
-	}
-*/
+	
+
 	
 		
 		/*Logic 2**/
@@ -33,14 +33,15 @@ public class ReverseNumber {
 		
 		
 		/**Logic 3**/
-		
+	/*	
 		StringBuilder sbl=new StringBuilder();
 		sbl.append(num);
 		StringBuilder rev=sbl.reverse();
 		System.out.println(rev);
+		*/
 		
-		
-	}
-	
-	
+
+
+}
+
 }

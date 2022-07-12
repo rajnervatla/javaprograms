@@ -13,6 +13,6 @@ public class OccurancesOfCharacrters {
 		int totalcountafter_remove=str.replace("a","").length();// removing afte reming a' s
 		
 		int count=total_length-totalcountafter_remove;
-		System.out.println(count);
+		System.out.println("Number of a's "+count);
 	}
 }
