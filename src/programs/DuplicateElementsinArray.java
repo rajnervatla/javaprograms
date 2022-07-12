@@ -6,8 +6,8 @@ public class DuplicateElementsinArray {
 
 	public static void main(String[] args) {
 
-		String arr[] = { "java", "c", "c++", "python" };
-
+		//String arr[] = { "java", "c", "c++", "python" };
+		int arr[] = { 1,3,4,5,7,8,8,9,0 };
 		// Logic 1 by comparing the elements
 
 		boolean flag = false;

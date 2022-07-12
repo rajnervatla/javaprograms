@@ -26,10 +26,10 @@ public class OccurancesOfWords {
 				hm.put(tempString,1);
 			}
 		}
-		Iterator<String> tempString=hm.keySet().iterator();
-		while(tempString.hasNext())
+		Iterator<String> tempString1=hm.keySet().iterator();
+		while(tempString1.hasNext())
 		{
-			String temp=tempString.next();
+			String temp=tempString1.next();
 			
 			if(hm.get(temp)>1)
 			{
@@ -58,6 +58,7 @@ public class OccurancesOfWords {
 		
 		System.out.println(hc);
 	}
+
 	
 
 	public static void main(String[] args) {
